@@ -1,4 +1,5 @@
 SnakeLadder
 ===========
 
-A java based Desktop SnakeLadder game
+A JAVA based Desktop SnakeLadder game
+UI designed using JAVA Swings
